@@ -28,6 +28,7 @@ main {
 
 .project img {
   width: 100%;
+
 }
 
 footer.mdl-mini-footer {
@@ -35,11 +36,14 @@ footer.mdl-mini-footer {
   position: fixed;
   width: 100%;
   z-index: 1;
+  color: black;
+
 }
 
 footer.mdl-mini-footer > ul {
   margin: auto;
   font-size: 1.5em;
+
 }
 @media screen and (max-width: 1024px) {
   header.mdl-layout__header {
